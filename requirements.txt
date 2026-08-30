@@ -5,3 +5,4 @@ pdfplumber
 python-docx
 openpyxl
 fpdf2
+python-multipart
